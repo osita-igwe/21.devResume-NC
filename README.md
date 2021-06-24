@@ -4,6 +4,8 @@ In this project, you’ll use your knowledge of CSS visual rules to create rule 
 
 ## Original Webpage
 
+![!](./originalResume.png)
+
 ## Completed Webpage
 
 ![!](./devResume.png)
