@@ -22,10 +22,10 @@
               <h3>Developer</h3>
               <div>
                 <span>
-                <img class="icon" src="./media/logos/iconmonstr-github-1-240 (1).png" alt="github logo"/>
-              <img class="icon" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-linkedin-1.png&r=255&g=255&b=255" alt="linkedin logo"/>
-              <img class="icon" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-twitter-4.png&r=255&g=255&b=255" alt="twitter logo"/>
-              </span>
+                  <img class="icon" src="./media/logos/iconmonstr-github-1-240 (1).png" alt="github logo"/>
+                  <img class="icon" src="media/logos/iconmonstr-linkedin-1-240.png" alt="linkedin logo"/>
+                  <img class="icon" src="media/logos/iconmonstr-twitter-4-240.png" alt="twitter logo"/>
+                </span>
                 <div></div>
               </div>
             </div>
