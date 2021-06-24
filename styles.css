@@ -1,0 +1,125 @@
+body {
+ padding: 0;
+ margin: 0;
+ width: 100%;
+ color: #FFFFFF;
+ font-family: 'Heebo', sans-serif;
+ background-color: #000
+}
+
+div {
+ padding: 0;
+ margin: 0
+}
+
+figure {
+ background-image: url('https: //images.pexels.com/photos/3283568/pexels-photo-3283568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+ background-size: cover;
+ background-position: left;
+ position: relative;
+ display: inline-block;
+ width: 40%;
+ height: 100%;
+ padding: 0;
+ margin: 0
+}
+
+figcaption {
+ vertical-align: baseline;
+ text-align: center
+}
+
+h1,
+h2 {
+ font-weight: 900
+}
+
+h1 {
+ font-size: 40px
+}
+
+h2 {
+ font-size: 50px
+}
+
+h3,
+.quickDescription, [href] {
+ color: #a751af;
+ font-weight: 700
+}
+
+hr {
+ font-weight: 100er;
+ opacity: 0.25;
+ margin-top: 5%
+}
+
+p {
+ color: #808080;
+ font-size: 15px;
+ font-weight: 400
+}
+
+section {
+ display: inline-block;
+ width: 59.5%;
+ height: 100%;
+ padding: 0;
+ margin: 0;
+ vertical-align: top;
+ overflow: scroll
+}
+
+.about-me {
+ font-style: italic;
+ margin-top: 5%
+}
+
+.filler {
+ height: 70%
+}
+
+.divider {
+ color: #808080;
+ width: 2%
+}
+
+.icon {
+ height: 3.5%;
+ margin: 2%
+}
+
+.info {
+ padding: 1% 7%;
+ background-color: #090a0a
+}
+
+.info h2 {
+ font-size: 70px;
+ padding-bottom: 1%;
+ margin-bottom: 1%
+}
+
+.lead {
+ margin-top: 5%
+}
+
+.lineHeight {
+ line-height: 20px
+}
+
+.overlay {
+ bottom: 0;
+ background: rgba(0, 0, 0, 0.55);
+ height: 100%
+}
+
+.quickDescription {
+ display: inline-block;
+ width: 14%;
+ margin: 0;
+ padding: 0.5%;
+ vertical-align: center;
+ line-height: 5px;
+ text-align: center
+}
